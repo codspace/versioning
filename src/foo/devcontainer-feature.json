@@ -1,7 +1,7 @@
 {
     "name": "My Feature Foo",
     "id": "foo",
-    "version": "0.3.4",
+    "version": "0.3.5",
     "description": "Foo!",
     "installsAfter": [
         "ghcr.io/devcontainers/features/common-utils"
