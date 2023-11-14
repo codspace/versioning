@@ -1,0 +1,9 @@
+{
+    "name": "My Feature Bar",
+    "id": "bar",
+    "version": "1.0.0",
+    "description": "Bar!",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
