@@ -1,0 +1,9 @@
+{
+    "name": "My Feature Baz",
+    "id": "baz",
+    "version": "1.0.0",
+    "description": "Baz!",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
